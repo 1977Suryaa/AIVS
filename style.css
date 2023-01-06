@@ -1,0 +1,19 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+div{
+    width: 100%;
+    background-color:rgb(106, 106, 106);
+    color:rgb(1, 255, 1);
+    font-weight: bolder;
+    font-size:30;
+    position: fixed;
+    bottom:0;
+    
+}
+canvas{
+    background-color: aliceblue;
+    box-shadow:2px 2px 50px crimson;
+    border:5px solid black;
+}
